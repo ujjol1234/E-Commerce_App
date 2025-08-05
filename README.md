@@ -1,6 +1,6 @@
 # UjStore - Android E-Commerce App
 
-A modern Android e-commerce application for shoes built with **Jetpack Compose** and following **MVVM architecture pattern**. The app provides a seamless shopping experience with features like product browsing, cart management, and user profiles.
+A modern Android e-commerce application built with **Jetpack Compose** and following **MVVM architecture pattern**. The app provides a seamless shopping experience with features like product browsing, cart management, and user profiles.
 
 ## 📱 Features
 
